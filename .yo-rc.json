@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.femonres.helpdesk",
+      "nativeLanguage": "es"
+    },
+    "jhipsterVersion": "6.2.0",
+    "applicationType": "monolith",
+    "baseName": "helpDesk",
+    "packageName": "com.femonres.helpdesk",
+    "packageFolder": "com/femonres/helpdesk",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MzY4Mjg1M2NhNGJiZGIwM2U5NjgxNzk0OGJiYmQzYjk1YzJjOGI5YzA3YWIyOWVmOGQxY2Y5ODQwMTc2NjA1NWQxZjA1NjQ0NDliMjdhZjA0ZGNmMGQyNDNhNDllMDU1MTdjMjMzYzE1YThkZDIzYmYzZGFiMjIzOTU2ZjI0ZDY=",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "sandstone",
+    "clientThemeVariant": "primary",
+    "testFrameworks": ["gatling", "cucumber", "protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "es",
+    "languages": ["es", "en", "it"],
+    "blueprints": []
+  }
+}
